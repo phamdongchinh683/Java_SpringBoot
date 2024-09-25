@@ -22,7 +22,7 @@ import com.springboot.backend.service.UserService;
 import jakarta.validation.Valid;
 
 @RestController
-@RequestMapping(path = "/api/v1/auth")
+@RequestMapping(path = "/api/v1/admin")
 
 public class UserController {
 
